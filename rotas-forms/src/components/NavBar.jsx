@@ -4,7 +4,7 @@ import "./NavBar.module.css"
 
 const NavBar = () => {
   return (
-    <nav>
+    <nav className='menu'>
         <NavLink to="/"> Home </NavLink>
         <NavLink to="/historia"> História </NavLink>
         <NavLink to="/cadastro"> Cadastro </NavLink>
