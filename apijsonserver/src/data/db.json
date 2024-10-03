@@ -1,0 +1,52 @@
+{
+  "alunos": [
+    {
+      "id": "3",
+      "nome": "Carla Oliveira",
+      "turma": "A",
+      "ano_escolar": 3
+    },
+    {
+      "id": "7",
+      "nome": "Gabriel Almeida",
+      "turma": "C",
+      "ano_escolar": 1
+    },
+    {
+      "id": "8",
+      "nome": "Helena Rocha",
+      "turma": "B",
+      "ano_escolar": 2
+    },
+    {
+      "id": "9",
+      "nome": "Isabela Nunes",
+      "turma": "C",
+      "ano_escolar": 3
+    },
+    {
+      "id": "10",
+      "nome": "João Pereira",
+      "turma": "A",
+      "ano_escolar": 1
+    },
+    {
+      "id": "af3d",
+      "nome": "Mathias",
+      "turma": "B",
+      "ano_escolar": 2
+    },
+    {
+      "id": "4e71",
+      "nome": "Kelly",
+      "turma": "B",
+      "ano_escolar": 1
+    },
+    {
+      "id": "fa8a",
+      "nome": "Jussara",
+      "turma": "B",
+      "ano_escolar": 1
+    }
+  ]
+}
